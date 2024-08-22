@@ -235,9 +235,9 @@ CGTN,http://182.127.42.152:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&au
 风云足球,http://123.189.36.155:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
 黑龙江,http://123.189.36.155:9901/tsfile/live/1145_1.m3u8?key=txiptv&playlive=1&authid=0
 重温经典,https://pi.0472.org/livetv/cwjd.m3u8
-CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
-CHC动作电影,https://pi.0472.org/chc/dz.m3u8
-CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
+CHC影迷电影,https://pi.0472.org/livetv/chcym.m3u8
+CHC动作电影,https://pi.0472.org/livetv/chcdz.m3u8
+CHC家庭影院,https://pi.0472.org/livetv/chcjt.m3u8
 CGTN英语,https://0472.org/hls/cgtn.m3u8
 CGTN记录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
@@ -2166,9 +2166,9 @@ NewTV中国功夫,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/
 金鹰卡通,http://124.228.160.169:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 06:39:07,url
 重温经典,https://pi.0472.org/livetv/cwjd.m3u8
-CHC影迷电影,https://pi.0472.org/chc/ym.m3u8
-CHC动作电影,https://pi.0472.org/chc/dz.m3u8
-CHC家庭影院,https://pi.0472.org/chc/jt.m3u8
+CHC影迷电影,https://pi.0472.org/livetv/chcym.m3u8
+CHC动作电影,https://pi.0472.org/livetv/chcdz.m3u8
+CHC家庭影院,https://pi.0472.org/livetv/chcjt.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN俄语,https://0472.org/hls/cgtne.m3u8
